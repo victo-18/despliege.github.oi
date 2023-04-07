@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/victo-18/despliege.github.oi.git/static/css/main.073c9b0a.css",
+    "main.js": "/victo-18/despliege.github.oi.git/static/js/main.22f61f1d.js",
+    "static/js/787.19a29460.chunk.js": "/victo-18/despliege.github.oi.git/static/js/787.19a29460.chunk.js",
+    "static/media/logo.svg": "/victo-18/despliege.github.oi.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/victo-18/despliege.github.oi.git/index.html",
+    "main.073c9b0a.css.map": "/victo-18/despliege.github.oi.git/static/css/main.073c9b0a.css.map",
+    "main.22f61f1d.js.map": "/victo-18/despliege.github.oi.git/static/js/main.22f61f1d.js.map",
+    "787.19a29460.chunk.js.map": "/victo-18/despliege.github.oi.git/static/js/787.19a29460.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.22f61f1d.js"
+  ]
+}
